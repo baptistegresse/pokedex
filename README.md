@@ -1,8 +1,12 @@
-Next App which allows you to discover all the existing Pokémons.
+Next App which allows you to discover all the first generation of pokemon
 
 ### Scroll and discover all the Pokémons
 
 ![Main Page](/public/main-ilu.png)
+
+### Click on a Pokémon card to display its details
+
+![Pokémon details](/public/main-detail-ilu.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
