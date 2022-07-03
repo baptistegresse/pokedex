@@ -1,3 +1,9 @@
+Next App which allows you to discover all the existing Pokémons.
+
+### Scroll and discover all the Pokémons
+
+![Main Page](/public/main-ilu.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
